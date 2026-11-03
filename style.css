@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(252, 242, 230);
+    color: #2a0a0a;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+img {
+    border: 20px solid #2a0a0a;
+}
